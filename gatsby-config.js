@@ -2,23 +2,23 @@ module.exports = {
   siteMetadata: {
     title: `YajaDoc`,
     siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    description: `Política de privacidad, términos y condiciones`,
     components: {
       appbar: {
         position: "sticky",
         links: [
           {
-            title: "Doc 1",
+            title: "Política de privacidad",
             url: "/doc1",
           },
           {
-            title: "Doc 2",
+            title: "Términos y condiciones",
             url: "/doc2",
           },
         ],
       },
       footer: {
-        copyright: "yoursite.com",
+        copyright: "www.yajaxal.com",
         columns: [
           {
             heading: "Column 1",
