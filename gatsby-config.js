@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
+    title: `YajaDoc`,
     siteUrl: `https://yoursite.com`,
     description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
     components: {
