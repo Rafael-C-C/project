@@ -9,11 +9,11 @@ module.exports = {
         links: [
           {
             title: "Política de privacidad",
-            url: "/doc1",
+            url: "/blog-post-3",
           },
           {
             title: "Términos y condiciones",
-            url: "/doc2",
+            url: "blog-post-2",
           },
         ],
       },
