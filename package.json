@@ -16,13 +16,12 @@
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.1"
   },
-  //TODO No sé que hacen
-  // "repository": {
-  //  "type": "git",
-  //  "url": "git+https://github.com/vim-labs/gatsby-theme-sky-lite-starter.git"
-  //},
-  //"bugs": {
-  //  "url": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter/issues"
-  //},
-  //"homepage": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter#readme"
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vim-labs/gatsby-theme-sky-lite-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter/issues"
+  },
+  "homepage": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter#readme"
 }
