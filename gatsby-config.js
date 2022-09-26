@@ -9,11 +9,11 @@ module.exports = {
         links: [
           {
             title: "Política de privacidad",
-            url: "/blog-post-3",
+            url: "/posts/blog-post-3",
           },
           {
             title: "Términos y condiciones",
-            url: "blog-post-2",
+            url: "/posts/blog-post-2",
           },
         ],
       },
@@ -21,32 +21,36 @@ module.exports = {
         copyright: "www.yajaxal.com",
         columns: [
           {
-            heading: "Column 1",
+            heading: "Redes sociales",
             links: [
               {
-                title: "Link 1",
-                url: "#",
+                title: "Facebook",
+                url: "https://www.facebook.com/Yajadoc",
               },
               {
-                title: "Link 2",
-                url: "#",
+                title: "Twitter",
+                url: "https://twitter.com/IMAC_AC",
               },
               {
-                title: "Link 3",
-                url: "#",
+                title: "Youtube",
+                url: "https://www.youtube.com/channel/UCFNb73tmtkYArn_DpGyyX3A",
               },
+              {
+                title: "LinkedIn",
+                url: "https://www.linkedin.com/company/2609786/"
+              }
             ],
           },
           {
-            heading: "Column 2",
+            heading: "Sitios asociados",
             links: [
               {
-                title: "Link A",
-                url: "#",
+                title: "IMAC",
+                url: "https://imac.org.mx/",
               },
               {
-                title: "Link B",
-                url: "#",
+                title: "Contacto",
+                url: "https://imac.org.mx/home/contacto/",
               },
               {
                 title: "Link C",
@@ -116,7 +120,7 @@ module.exports = {
         background_color: `rebeccapurple`,
         theme_color: `rebeccapurple`,
         display: `standalone`,
-        icon: `src/images/favicon.png`,
+        icon: `src/images/YAJALOGO.png`,
       },
     },
   ],
